@@ -1,0 +1,20 @@
+{
+    "ownerNumber": "6283180896284@s.whatsapp.net",
+    "ownerName": "Tomi Heneldra",
+    "botName": "Sukuna Bot",
+    "footer": "Sukuna Bot",
+    "sessionName": "session",
+    "pathimg": "./media/logo.jpg",
+    "lolkey": "KaysaS",
+    "instagram": "https://instagram.com/tommyheneldra",
+    "gamewaktu": 90,
+    "limitCount": 30,
+    "gcount": {
+        "prem": 99,
+        "user": 30
+    },
+    "sticker": {
+        "packname": "Created By",
+        "author": "Tomi Heneldra"
+    }
+}
